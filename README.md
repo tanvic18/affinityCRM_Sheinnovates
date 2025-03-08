@@ -20,4 +20,3 @@ Frontend: React, Material UI (MUI), Tailwind CSS, Framer Motion\
 Authentication: Firebase Authentication (Email/Google)\
 Routing: React Router\
 Icons: Lucide React
-![Screenshot 2025-03-09 044209](https://github.com/user-attachments/assets/734f3809-3e0c-4769-bce8-9cfa369c4d40)
